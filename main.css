@@ -1,0 +1,77 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    background: rgb(175,72,235);
+    background: linear-gradient(0deg, rgba(175,72,235,1) 0%, rgba(255,165,0,1) 65%);
+}
+
+.navbar {
+    background-color: #af48eb;
+}
+
+#cabecalho .nav .nav-link.active,
+#download button {
+    background-color: orange;
+    color: white;
+}
+
+#cabecalho .nav .nav-link {
+    color: white;
+}
+
+header img {
+    width: 100px;
+    height: 50px;
+    object-fit: cover;
+}
+
+#murfy {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+}
+
+#barbara {
+    background-color: rgb(99, 247, 99);
+
+}
+#rayman {
+    background-color: rgb(191, 156, 231);
+}
+#globox {
+    background-color: rgb(122, 185, 236);
+}
+
+#jogo .nav .nav-link.active {
+    background-color: orange;
+    color: white;
+}
+
+#jogo .nav .nav-link {
+    color: white;
+}
+
+.text-form {
+    text-align: center;
+    padding: 20px;
+    color: white;
+    font-family: 'Francois One', sans-serif;
+}
+
+.font-francois {
+    font-family: 'Francois One', sans-serif;
+}
+
+#download {
+    color: white;
+    text-align: center;
+    padding: 50px;
+}
+
+#download h2 {
+    font-size: 50px;
+}
+
+#rodape {
+    text-align: center;
+}
