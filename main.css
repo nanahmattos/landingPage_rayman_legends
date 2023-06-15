@@ -93,4 +93,9 @@ header img {
     .carousel img {
         height: 300px;
     }
+
+    #sobre-o-jogo {
+        text-align: center;
+    }
+
 }
