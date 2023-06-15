@@ -5,11 +5,21 @@ body {
     background: linear-gradient(0deg, rgba(175,72,235,1) 0%, rgba(255,165,0,1) 65%);
 }
 
+.carousel img{
+    max-width: 100%;
+    width: 820px;
+    height: 550px;
+    object-fit: cover;
+}
+
 .navbar {
     background-color: #af48eb;
 }
 
-#cabecalho .nav .nav-link.active,
+#cabecalho .nav .nav-link.active {
+    background-color: orange;
+    color: white;
+}
 #download button {
     background-color: orange;
     color: white;
@@ -23,18 +33,20 @@ header img {
     width: 100px;
     height: 50px;
     object-fit: cover;
+    cursor: pointer;
 }
 
 #murfy {
-    width: 250px;
-    height: 250px;
-    object-fit: cover;
+    width: 300px;
+    height: 300px;
+    object-fit: contain;
 }
+
 
 #barbara {
     background-color: rgb(99, 247, 99);
-
 }
+
 #rayman {
     background-color: rgb(191, 156, 231);
 }
@@ -74,4 +86,11 @@ header img {
 
 #rodape {
     text-align: center;
+}
+
+
+@media screen and (max-width: 767px) {
+    .carousel img {
+        height: 300px;
+    }
 }
