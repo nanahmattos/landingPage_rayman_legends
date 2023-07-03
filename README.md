@@ -17,7 +17,7 @@ Este projeto é parte do curso "Engenheiro Front-end" da EBAC em que estou parti
 * <b>Links de compra:</b> Adicionei links para lojas online onde os usuários podem adquirir o jogo, caso tenham interesse.
 
 <h2>Hospedagem e Feedback</h2>
-A landing page está hospedada na plataforma Vercel e você pode acessá-la através deste [link](https://rayman-legends-game.vercel.app/) .Espero que goste da página e, se puder, deixe seu feedback. Sua opinião é muito importante para mim e irá me ajudar a aprimorar meus futuros projetos.
+A landing page está hospedada na plataforma Vercel e você pode acessá-la através deste <a href= "https://rayman-legends-game.vercel.app/">LINK</a>. Espero que goste da página e, se puder, deixe seu feedback. Sua opinião é muito importante para mim e irá me ajudar a aprimorar meus futuros projetos.
 
 <h3>☎ Contato</h3>
 Se você tiver alguma dúvida, sugestão ou feedback sobre este projeto, fique à vontade para entrar em contato comigo. Você pode me encontrar nos seguintes canais:
