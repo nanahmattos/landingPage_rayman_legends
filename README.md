@@ -12,7 +12,7 @@ Este projeto é parte do curso "Engenheiro Front-end" da EBAC em que estou parti
 
 * <b>Descrição do jogo:</b> Apresento informações sobre o jogo Rayman Legends, incluindo detalhes da história, personagens principais e mecânicas de jogo.
 
-* <b>Galeria de imagens:</b> Incluí uma galeria de imagens que exibe capturas de tela do jogo, permitindo que os usuários tenham uma prévia visual do jogo.
+* <b>Imagens:</b> Incluí um carrossel de imagens que exibe capturas de tela do jogo, permitindo que os usuários tenham uma prévia visual do jogo.
 
 * <b>Links de compra:</b> Adicionei links para lojas online onde os usuários podem adquirir o jogo, caso tenham interesse.
 
